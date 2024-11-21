@@ -32,7 +32,7 @@
             </ion-list>
 
             <!-- Tabs Menu -->
-            <TabsMenu />
+            <!-- <TabsMenu /> -->
         </ion-content>
 
     </ion-page>
